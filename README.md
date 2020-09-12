@@ -1,3 +1,6 @@
+## Exercise to set environment variables for travis environment
+This repo is connected to [travis](https://travis-ci.org/github/darkphoenix17/simple-node-travis)
+
 # Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
